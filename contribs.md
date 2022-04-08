@@ -36,8 +36,8 @@ Troberg, Michelle & **Justin Leung**. 2020. [On the uniform loss of Medieval Fre
 
 # Other contribs
 
-[English Wiktionary](https://en.wiktionary.org/wiki/User_talk:Justinrleung) 
+[English Wiktionary](https://en.wiktionary.org/wiki/Special:Contributions/Justinrleung) 
 
-[English Wikipedia](https://en.wikipedia.org/wiki/User_talk:Justinrleung)
+[English Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Justinrleung)
 
 [Forvo](https://forvo.com/user/justinrleung/)
