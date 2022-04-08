@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Justin Leung
+exclude: true
 ---
 
 Hi. I'm Justin.
