@@ -12,7 +12,7 @@ Troberg, Michelle & **Justin Leung**. 2021. [On the unified change of directiona
 
 **Leung, Justin**. 2021. Ordering multiple adnominal adjectives in Lingala. Paper presented at the 13th Annual Linguistics Graduate Course Union (LGCU) Welcome Workshop, University of Toronto, virtual, November 5.
 
-**Leung, Justin**. 2021. Variation in path encoding in motion events in Toronto Heritage Cantonese. Paper presented at the 49th meeting of New Ways of Analyzing Variation (NWAV 49), University of Texas at Austin, virtual, October 19–24.
+**Leung, Justin**. 2021. [Variation in path encoding in motion events in Toronto Heritage Cantonese](https://youtu.be/3_PYsfuxTEM). Paper presented at the 49th meeting of New Ways of Analyzing Variation (NWAV 49), University of Texas at Austin, virtual, October 19–24.
 
 **Leung, Justin**. 2021. Variation in directional motion event expression in Toronto Heritage Cantonese. Paper presented at the 33rd North American Conference on Chinese Linguistics (NACCL 33), University of Chicago, virtual, June 24–25.
 
