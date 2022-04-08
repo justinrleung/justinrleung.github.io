@@ -1,11 +1,3 @@
-{% for page in site.pages %}
-    {% unless page.exclude %}
-        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
-            {{ page.title }}
-        </a>
-    {% endunless %}
-{% endfor %}
-
 <header class="site-header">
 
   <div class="wrapper">
