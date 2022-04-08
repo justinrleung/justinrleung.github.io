@@ -24,11 +24,11 @@ Lo, Roger Yu-Hsiang, **Justin Leung** & Angelika Kiss. 2021. Perceiving rhetoric
 
 Kiss, Angelika, Roger Yu-Hsiang Lo, **Justin Richard Leung** & Maxime Alexandra Tulling. 2021. What do Cantonese sentence-final particles tell us about rhetorical questions? Paper presented at the workshop on Biased Questions: Experimental Results & Theoretical Modelling, Leibniz-Zentrum Allgemeine Sprachwissenschaft, virtual, February 4–5.
 
-Lo, Roger, Angelika Kiss & **Justin Leung**. 2021. Two types of rhetorical questions: Evidence from Cantonese prosody. Poster presented at the 95th Annual Meeting of the Linguistic Society of America (LSA), virtual, January 7–10.
+Lo, Roger, Angelika Kiss & **Justin Leung**. 2021. [Two types of rhetorical questions: Evidence from Cantonese prosody](https://www.linguisticsociety.org/abstract/two-types-rhetorical-questions-evidence-cantonese-prosody). Poster presented at the 95th Annual Meeting of the Linguistic Society of America (LSA), virtual, January 7–10.
 
 **Leung, Justin**. 2020. A quantitative approach to the loss of Medieval French verb particles. Paper presented at the 12th Annual Linguistics Graduate Course Union (LGCU) Welcome Workshop, University of Toronto, virtual, October 16.
 
-Troberg, Michelle & **Justin Leung**. 2020. On the uniform loss of Medieval French verb particles. Paper presented at the Canadian Linguistics Association (CLA) Annual Conference, virtual, May 30–June 1.
+Troberg, Michelle & **Justin Leung**. 2020. [On the uniform loss of Medieval French verb particles](https://cla-acl.ca/pdfs/resumes-2020-abstracts/Troberg.pdf). Paper presented at the Canadian Linguistics Association (CLA) Annual Conference, virtual, May 30–June 1.
 
 **Leung, Justin**. 2020. The unified loss of verb particles in Medieval French: a quantitative analysis. Paper presented at the 13th Toronto Undergraduate Linguistics Conference (TULCON13), University of Toronto, Toronto, March 7–8.
 
