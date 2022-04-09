@@ -1,7 +1,6 @@
 title: Justin Leung 梁路明
 author:
   name: Justin Leung
-  email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Personal website of Justin Leung.
 show_excerpts: false # set to true to show excerpts on the homepage
