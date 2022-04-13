@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-CA"
 title                    : "Justin Leung 梁路明"
-title_separator          : "|"
+title_separator          : "-"
 name                     : &name "Justin Leung"
 description              : &description "personal description"
 url                      : https://justinrleung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Justin Leung 梁路明"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Learning (about) languages here and there"
   location         : "Ontario, Canada"
   employer         :
