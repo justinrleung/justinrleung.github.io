@@ -1,0 +1,13 @@
+{% include base_path %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <p>{{ post.authors }}. {{ post.date | default: "1900-01-01" | date: "%Y" }}. <i>{{ post.venue }}</i> {{ post.volume }}({{ post.issue }}): {{ post.pages }}.
+      {% if post.paperurl %}
+      [<a href=" {{ post.paperurl }} ">download</a>]
+      {% endif %}
+    </p>
+
+  </article>
+</div>
