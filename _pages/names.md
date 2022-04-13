@@ -14,7 +14,7 @@ My Chinese name is 梁路明. My given name means "bright road", a reference to 
 
 An array of pronunciations for your reference:
 
-* Cantonese (Hong Kong): *loeng⁴ lou⁶ ming⁴* <span class="ipa-font">/lœŋ˨˩ low˨ mɪŋ˨˩/</span>
+* Cantonese (Hong Kong): *loeng⁴ lou⁶ ming⁴* <span class="ipa-font">/lœŋ˨˩ lou˨ mɪŋ˨˩/</span>
 * Taishanese (Taicheng): <span class="ipa-font">/liaŋ˨ lu˧˩ men˨/</span>
 * Mandarin (Standard): *Liáng Lùmíng* <span class="ipa-font">/liaŋ˧˥ lu˥˩ miŋ˧˥/</span>
 * Hokkien-Taiwanese (General Taiwanese): *Niû Lōo-bîng* <span class="ipa-font">/liũ˨˦ lɔ˨ biŋ˨˦/</span>
