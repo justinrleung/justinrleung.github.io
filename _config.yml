@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Justin Leung"
   avatar           : "profile.png"
-  bio              : 
+  bio              : "Learning (about) languages here and there"
   location         : "Ontario, Canada"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WJTsEoYAAAAJ&hl=en"
-  email            :
+  email            : "justinr.leung@mail.utoronto.ca"
   researchgate     : "https://www.researchgate.net/profile/Justin-Leung-2" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "justinrleung"
   orcid            : 
   pinterest        :
   soundcloud       :
