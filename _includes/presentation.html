@@ -10,8 +10,8 @@
       , {{ post.host }}, {{ post.location }}, {{ post.date | default: "1900-01-01" | date: "%B %e" }}
       {%- if post.enddate -%}
         –
-        {%- assign datemonth = post.date | date: "%B" %}
-        {%- assign enddatemonth = post.enddate | date: "%B" %}
+        {%- assign datemonth = post.date | date: "%B" -%}
+        {%- assign enddatemonth = post.enddate | date: "%B" -%}
         {%- if datemonth == enddatemonth -%}
           {{ post.enddate | date: "%e" }}
         {%- else -%}
