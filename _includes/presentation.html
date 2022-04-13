@@ -8,7 +8,7 @@
         ({{ post.venueabbr }})
       {%- endif -%}
       , {{ post.host }}, {{ post.location }}, {{ post.date | default: "1900-01-01" | date: "%B %e" }}
-      {%- if {{ post.enddate }} -%}
+      {%- if post.enddate -%}
         –
         {%- if {{ post.date | date: "%B" }} == {{ post.enddate | date: "%B" }} -%}
           {{ post.enddate | date: "%e" }}
