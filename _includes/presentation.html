@@ -16,9 +16,9 @@
         {%- assign datemonth = post.date | date: "%B" -%}
         {%- assign enddatemonth = post.enddate | date: "%B" -%}
         {%- if datemonth == enddatemonth -%}
-          {{ post.enddate | date: "%e" }}
+          {{- post.enddate | date: "%e" -}}
         {%- else -%}
-          {{ post.enddate | date: "%B %e" }}
+          {{- post.enddate | date: "%B %e" -}}
         {%- endif -%}
       {%- endif -%}
       .
