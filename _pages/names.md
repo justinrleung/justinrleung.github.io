@@ -4,11 +4,11 @@ title: "My names"
 author_profile: true
 ---
 
-# English
+## English
 
 My full name is Justin Richard Leung /ˈdʒʌs.tɪn ˈɹɪtʃ.ɚd lʌŋ/ ~ /ˈdʒʌs.tɪn ˈɹɪtʃ.ɚd lœŋ/. I usually go by Justin.
 
-# Chinese
+## Chinese
 
 My Chinese name is 梁路明. My given name means "bright road", a reference to Proverbs 3:5–6 and Psalm 119:105.
 
