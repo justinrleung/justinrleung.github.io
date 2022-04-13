@@ -1,7 +1,7 @@
 ---
 title: "Two types of rhetorical questions: Evidence from Cantonese prosody"
 collection: presentations
-type: "Paper"
+type: "Poster"
 authors: Lo, Roger, Angelika Kiss & <strong>Justin Leung</strong>
 date: 2021-01-07
 enddate: 2021-01-10
