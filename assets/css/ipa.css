@@ -1,0 +1,11 @@
+@font-face {
+  font-family: AndikaW;
+  src: url(Andika-Regular.woff2);
+}
+
+.ipafont {
+  font-family: AndikaW;
+  -moz-font-feature-settings: 'ss13';
+  -webkit-font-feature-settings: 'ss13'
+  font-feature-settings: 'ss13' on;
+}
