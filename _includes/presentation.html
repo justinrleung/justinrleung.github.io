@@ -5,11 +5,20 @@
     
     <p>{{ post.authors }}. {{ post.date | default: "1900-01-01" | date: "%Y" }}. {{ post.title }}. {{ post.type }} presented at {{ post.venue }}
       {% if post.venueabbr -%}
-      ({{ post.venueabbr }})
+        ({{ post.venueabbr }})
       {%- endif -%}
-      , {{ post.host }}, {{ post.location }}, {{ post.date | default: "1900-01-01" | date: "%B %e" }}.
+      , {{ post.host }}, {{ post.location }}, {{ post.date | default: "1900-01-01" | date: "%B %e" }}
+      {%- if {{ post.enddate }} -%}
+        –
+        {%- if {{ post.date | date: "%B" }} == {{ post.enddate | date: "%B" }} -%}
+          {{ post.enddate | date: "%e" }}
+        {%- else -%}
+          {{ post.enddate | date: "%B %e" }}
+        {%- endif -%}
+      {%- endif -%}
+      .
       {% if post.videourl %}
-      [<a href=" {{ post.videourl }} ">video</a>]
+        [<a href=" {{ post.videourl }} ">video</a>]
       {% endif %}
     </p>
 
