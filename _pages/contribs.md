@@ -20,5 +20,5 @@ author_profile: true
 ## Presentations
 
 {% for post in site.presentations reversed %}
-  {% include archive-single.html %}
+  {% include presentation.html %}
 {% endfor %}
