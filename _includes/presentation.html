@@ -6,7 +6,7 @@
     <p>{{ post.authors }}. {{ post.date | default: "1900-01-01" | date: "%Y" }}. {{ post.title }}. {{ post.type }} presented at {{ post.venue }}
       {% if post.venueabbr -%}
       ({{ post.venueabbr }})
-      {% endif %}
+      {%- endif -%}
       , {{ post.host }}, {{ post.location }}, {{ post.date | default: "1900-01-01" | date: "%B %e" }}.
       {% if post.videourl %}
       [<a href=" {{ post.videourl }} ">video</a>]
