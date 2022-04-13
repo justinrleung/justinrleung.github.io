@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Justin Leung"
   avatar           : "profile.png"
-  bio              : ""
+  bio              : 
   location         : "Ontario, Canada"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WJTsEoYAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Justin-Leung-2" # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
