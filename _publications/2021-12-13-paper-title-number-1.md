@@ -1,7 +1,7 @@
 ---
 title: "On the unified change of directional/aspectual verb particles in French"
 collection: publications
-authors: "Troberg, Michelle & **Justin Leung**"
+authors: Troberg, Michelle & **Justin Leung**
 date: 2021-12-13
 venue: 'Journal of Historical Syntax'
 volume: "5"
