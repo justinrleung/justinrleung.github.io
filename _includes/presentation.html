@@ -3,14 +3,14 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
-    <p>{{ post.authors }}. {{ post.date | default: "1900-01-01" | date: "%Y" }}. {{ post.title }}. {{ post.type }} presented at {{ post.venue -}}
+    <p>{{ post.authors }}. {{ post.date | default: "1900-01-01" | date: "%Y" }}. {{ post.title }}. {{ post.type }} presented at {{ post.venue }}
       {% if post.venueabbr -%}
         ({{ post.venueabbr }})
       {%- endif -%}
       {%- if post.host -%}
         , {{ post.host }}
       {%- endif -%}
-      , {{ post.location }}, {{ post.date | default: "1900-01-01" | date: "%B %-d" }}
+      {{- -}}, {{ post.location }}, {{ post.date | default: "1900-01-01" | date: "%B %-d" }}
       {%- if post.enddate -%}
         –
         {%- assign datemonth = post.date | date: "%B" -%}
