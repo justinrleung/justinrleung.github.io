@@ -8,8 +8,8 @@ author_profile: true
 ## Main projects
 
 * Directional motion expression in Cantonese
-** Variation in heritage Cantonese
-** Argument structure
+  * Variation in heritage Cantonese
+  * Argument structure
 
 ## Side projects
 
