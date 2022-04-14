@@ -5,12 +5,18 @@ permalink: /research/
 author_profile: true
 ---
 
-Under construction!
+## Main projects
 
-> Argument structure of directional motion predicates in Cantonese
+* Directional motion expression in Cantonese
+** Variation in heritage Cantonese
+** Argument structure
 
-> Passivizable verb-indirect object-direct object constructions in Cantonese
+## Side projects
 
-> Verb particles in the history of French
+* Passivizable verb-indirect object-direct object constructions in Cantonese
+* Adjective ordering in Lingala
+* Prosody of rhetorical questions (with Angelika Kiss and Roger Lo)
 
-> Adjective ordering in Lingala
+## Past projects
+
+* Verb particles in the history of French (with Michelle Troberg)
