@@ -17,6 +17,6 @@ An array of pronunciations for your reference:
 * Cantonese (Hong Kong): *loeng⁴ lou⁶ ming⁴* <span class="ipa-font">/lœŋ˨˩ lou˨ mɪŋ˨˩/</span>
 * Taishanese (Taicheng): <span class="ipa-font">/liaŋ˨ lu˧˩ men˨/</span>
 * Mandarin (Standard): *Liáng Lùmíng* <span class="ipa-font">/liaŋ˧˥ lu˥˩ miŋ˧˥/</span>
-* Hokkien-Taiwanese (General Taiwanese): *Niû Lōo-bîng* <span class="ipa-font">/liũ˨˦ lɔ˨ biŋ˨˦/</span>
-* Teochew (Shantou): *nio⁵ lou⁷ mêng⁵* <span class="ipa-font">/nio˥ lou˩ meŋ˥/</span>
+* Hokkien-Taiwanese (General Taiwanese): *Niû Lōo-bîng* <span class="ipa-font">/liũ˨˦꜕ lɔ˨꜖ biŋ˨˦/</span>
+* Teochew (Shantou): *nio⁵ lou⁷ mêng⁵* <span class="ipa-font">/nio˥꜖ lou˩ meŋ˥/</span>
 * Hakka (Sixian): *liongˇ lu minˇ* <span class="ipa-font">/lioŋ˩ lu˥ min˩/</span>
