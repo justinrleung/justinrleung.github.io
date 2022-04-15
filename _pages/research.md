@@ -11,11 +11,11 @@ author_profile: true
   * Variation in heritage Cantonese
   * Argument structure
 
-## Side projects
+## Other projects
 
 * Passivizable verb-indirect object-direct object constructions in Cantonese
 * Adjective ordering in Lingala
-* Prosody of rhetorical questions (with Angelika Kiss and Roger Lo)
+* [The meaning and prosody of rhetorical questions](https://www.researchgate.net/project/The-meaning-and-prosody-of-rhetorical-questions) (with Angelika Kiss, Roger Lo and Maxime Tulling)
 
 ## Past projects
 
