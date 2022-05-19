@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-See my CV below.
+See my CV below, or download it [here](../files/Justin_Leung_CV.pdf).
 
 <object data="../files/Justin_Leung_CV.pdf" width="1000" height="1000" type='application/pdf'></object>
