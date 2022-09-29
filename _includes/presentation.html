@@ -22,8 +22,14 @@
         {%- endif -%}
       {%- endif -%}
       .
+      {% if post.abstracturl %}
+        [<a href=" {{ post.abstracturl }} ">abstract</a>]
+      {% endif %}
       {% if post.slidesurl %}
         [<a href=" {{ post.slidesurl }} ">slides</a>]
+      {% endif %}
+      {% if post.handouturl %}
+        [<a href=" {{ post.handouturl }} ">handout</a>]
       {% endif %}
       {% if post.videourl %}
         [<a href=" {{ post.videourl }} ">video</a>]
