@@ -1,6 +1,10 @@
 /* ==========================================================================
    BASE ELEMENTS
    ========================================================================== */
+
+$sans-serif : "Fira Sans", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$global-font-family : $sans-serif;
+
 html {
   /* sticky footer fix */
   position: relative;
