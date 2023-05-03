@@ -5,17 +5,17 @@ permalink: /research/
 author_profile: true
 ---
 
-## Main projects
+## Main research interests
 
-* Directional motion expression in Cantonese
+* Argument structure/event structure in Cantonese
+  * Directional roots and their associated arguments
+  * Double object constructions
   * Variation in heritage Cantonese
-  * Argument structure
 
 ## Other projects
 
-* Passivizable verb-indirect object-direct object constructions in Cantonese
 * [The meaning and prosody of rhetorical questions](https://www.researchgate.net/project/The-meaning-and-prosody-of-rhetorical-questions) (with Angelika Kiss, Roger Lo and Maxime Tulling)
-* POS tagger for Northern Min
+* [https://github.com/justinrleung/kienning-bible](Digitization and processing of the Northern Min Bible)
 
 ## Past projects
 
