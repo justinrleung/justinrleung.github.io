@@ -16,6 +16,8 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
+gem install bundler:2.3.11
+
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # https://stackoverflow.com/questions/75801199/jekyll-undefined-method-yaml-file-in-github-actions
