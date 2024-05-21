@@ -14,7 +14,7 @@ author_profile: true
 
 ## Other projects
 
-* [The meaning and prosody of rhetorical questions](https://www.researchgate.net/project/The-meaning-and-prosody-of-rhetorical-questions) (with Angelika Kiss, Roger Lo and Maxime Tulling)
+* The meaning and prosody of rhetorical questions (with Angelika Kiss, Roger Lo and Maxime Tulling)
 * [Digitization and processing of the Northern Min Bible](https://github.com/justinrleung/kienning-bible)
 
 ## Past projects
