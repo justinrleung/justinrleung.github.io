@@ -25,10 +25,12 @@ author_profile: true
 * [Xiaoxuetang](https://xiaoxue.iis.sinica.edu.tw/)
 * [YonhTenxMyangx](https://ytenx.org/)
 * [Words.hk](https://words.hk/)
+* [Directory of Cantonese linguists (compiled by Ka-Fai Yip)](https://kafai-yip.github.io/links/#cantonese-linguists)
 * [ChhoeTaigi](https://chhoe.taigi.info/)
 * [Language resources from the Taiwanese Ministry of Education](https://language.moe.gov.tw/)
+* [Hakka e-Learning Center](https://elearning.hakka.gov.tw/)
 * [Wugniu](https://www.wugniu.com/)
-* [Directory of Cantonese linguists (compiled by Ka-Fai Yip)](https://kafai-yip.github.io/links/#cantonese-linguists)
+* [A Dictionary of the Dungan Language](https://ivospira.bitbucket.io/dungan_dict/dungan_dict.html)
 
 ### Austronesian languages
 * [Austronesian Comparative Dictionary](https://www.trussel2.com/ACD/)
