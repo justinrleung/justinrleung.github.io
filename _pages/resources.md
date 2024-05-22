@@ -39,6 +39,7 @@ author_profile: true
 ### Tools
 * [ELAN](https://archive.mpi.nl/tla/elan)
 * [Praat](https://www.fon.hum.uva.nl/praat/)
+* [IPA (SIL) Keyboard](https://keyman.com/keyboards/sil_ipa)
 
 ## Christianity
 
