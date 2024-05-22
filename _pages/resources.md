@@ -18,11 +18,18 @@ author_profile: true
 * [Kaom.net](http://www.kaom.net/)
 * [SEAlang Projects](http://sealang.net/)
 
-#### Sinitic languages
-* [Directory of Cantonese linguists (compiled by Ka-Fai Yip)](https://kafai-yip.github.io/links/#cantonese-linguists)
+### Sinitic languages
 * [Multi-function Chinese Character Database](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
 * [zi.tools](https://zi.tools/)
 * [Xiaoxuetang](https://xiaoxue.iis.sinica.edu.tw/)
+* [YonhTenxMyangx](https://ytenx.org/)
+* [Words.hk](https://words.hk/)
+* [ChhoeTaigi](https://chhoe.taigi.info/)
+* [Directory of Cantonese linguists (compiled by Ka-Fai Yip)](https://kafai-yip.github.io/links/#cantonese-linguists)
+
+### Tools
+* [ELAN](https://archive.mpi.nl/tla/elan)
+* [Praat](https://www.fon.hum.uva.nl/praat/)
 
 ## Christianity
 
