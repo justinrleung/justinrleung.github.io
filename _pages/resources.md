@@ -6,14 +6,17 @@ author_profile: true
 
 ## Language and Linguistics
 
-### Multilingual resources
-* [English Wiktionary](https://en.wiktionary.org/)
+### Languages of the world
 * [World Atlas of Language Structures (WALS)](https://wals.info/)
 * [Grambank](https://grambank.clld.org/)
 * [Ethnologue](http://www.ethnologue.com/)
-* [Kaom.net](http://www.kaom.net/)
+* [English Wiktionary](https://en.wiktionary.org/)
 
-### Sinitic languages
+### Languages of Asia
+* [Kaom.net](http://www.kaom.net/)
+* [SEAlang Projects](http://sealang.net/)
+
+#### Sinitic languages
 * [Directory of Cantonese linguists (compiled by Ka-Fai Yip)](https://kafai-yip.github.io/links/#cantonese-linguists)
 * [Multi-function Chinese Character Database](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
 * [zi.tools](https://zi.tools/)
