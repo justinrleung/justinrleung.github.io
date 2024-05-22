@@ -10,6 +10,8 @@ author_profile: true
 * [World Atlas of Language Structures (WALS)](https://wals.info/)
 * [Grambank](https://grambank.clld.org/)
 * [Ethnologue](http://www.ethnologue.com/)
+* [Database of Cross-Linguistic Colexifications](https://clics.clld.org/)
+* [World Loanword Database](http://wold.clld.org)
 * [English Wiktionary](https://en.wiktionary.org/)
 
 ### Languages of Asia
@@ -29,6 +31,7 @@ author_profile: true
   * [珍本聖經數位典藏查詢系統](https://bible.fhl.net/ob/)
 * [Bible Hub](https://biblehub.com/)
 * [YouVersion](https://www.bible.com/)
+* [Bible.is](https://live.bible.is/bible/EN1ESV/MAT/1)
 
 ### General resources
 * [Got Questions](https://www.gotquestions.org/)
