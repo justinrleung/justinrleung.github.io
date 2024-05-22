@@ -11,17 +11,18 @@ author_profile: true
 * [World Atlas of Language Structures (WALS)](https://wals.info/)
 * [Grambank](https://grambank.clld.org/)
 * [Ethnologue](http://www.ethnologue.com/)
-* [古音小鏡](http://www.kaom.net/)
+* [Kaom.net](http://www.kaom.net/)
 
 ### Sinitic languages
 * [Directory of Cantonese linguists (compiled by Ka-Fai Yip)](https://kafai-yip.github.io/links/#cantonese-linguists)
 * [Multi-function Chinese Character Database](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
-* [字統网](https://zi.tools/)
+* [zi.tools](https://zi.tools/)
+* [Xiaoxuetang](https://xiaoxue.iis.sinica.edu.tw/)
 
 ## Christianity
 
 ### Bibles
-* [信望愛 (Faith Hope Love)](https://bible.fhl.net/)
+* [Faith Hope Love](https://bible.fhl.net/)
   * [珍本聖經數位典藏查詢系統](https://bible.fhl.net/ob/)
 * [Bible Hub](https://biblehub.com/)
 * [YouVersion](https://www.bible.com/)
