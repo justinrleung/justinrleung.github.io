@@ -13,6 +13,7 @@ author_profile: true
 * [Database of Cross-Linguistic Colexifications](https://clics.clld.org/)
 * [World Loanword Database](http://wold.clld.org)
 * [English Wiktionary](https://en.wiktionary.org/)
+* [Webonary](https://www.webonary.org/)
 
 ### Languages of Asia
 * [Kaom.net](http://www.kaom.net/)
@@ -25,7 +26,13 @@ author_profile: true
 * [YonhTenxMyangx](https://ytenx.org/)
 * [Words.hk](https://words.hk/)
 * [ChhoeTaigi](https://chhoe.taigi.info/)
+* [Language resources from the Taiwanese Ministry of Education](https://language.moe.gov.tw/)
+* [Wugniu](https://www.wugniu.com/)
 * [Directory of Cantonese linguists (compiled by Ka-Fai Yip)](https://kafai-yip.github.io/links/#cantonese-linguists)
+
+### Austronesian languages
+* [Austronesian Comparative Dictionary](https://www.trussel2.com/ACD/)
+* [原住民族語言線上辭典](https://e-dictionary.ilrdf.org.tw/)
 
 ### Tools
 * [ELAN](https://archive.mpi.nl/tla/elan)
