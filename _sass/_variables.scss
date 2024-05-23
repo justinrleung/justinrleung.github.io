@@ -12,35 +12,6 @@ $doc-font-size              : 16;
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
-@font-face {
-  font-family: 'Fira Sans';
-  font-style: italic;
-  font-weight: 400;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/firasans/v17/va9C4kDNxMZdWfMOD5VvkrjEYTLVdlTOr0s.woff2) format('woff2');
-}
-@font-face {
-  font-family: 'Fira Sans';
-  font-style: italic;
-  font-weight: 700;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/firasans/v17/va9f4kDNxMZdWfMOD5VvkrByRCf1VFnklULWJXg.woff2) format('woff2');
-}
-@font-face {
-  font-family: 'Fira Sans';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/firasans/v17/va9E4kDNxMZdWfMOD5VvmojLazX3dGTP.woff2) format('woff2');
-}
-@font-face {
-  font-family: 'Fira Sans';
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/firasans/v17/va9B4kDNxMZdWfMOD5VnLK3eSxf6Xl7Gl3LX.woff2) format('woff2');
-}
-
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
 $sans-serif                 : "Fira Sans", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
