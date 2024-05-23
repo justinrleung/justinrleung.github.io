@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi. I'm [Justin](names). I'm a PhD student in linguistics at the University of Toronto. My main [research interests](research) include language variation and change, language contact and morphosyntax. I am particularly interested in minoritized language varieties, especially in the Sinitic family.
+Hi, [Justin](names) here. I'm a PhD student in [linguistics at the University of Toronto](https://www.linguistics.utoronto.ca/). My main [research interests](research) include language variation and change, language contact and morphosyntax. I am particularly interested in minoritized language varieties, especially in the Sinitic family.
