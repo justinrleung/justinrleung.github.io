@@ -11,6 +11,7 @@
 */
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "webfonts";
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
@@ -27,7 +28,6 @@
 @import "navigation";
 @import "footer";
 @import "syntax";
-@import "webfonts";
 
 @import "forms";
 
