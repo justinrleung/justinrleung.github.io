@@ -59,6 +59,8 @@ toc: true
 * [ELAN](https://archive.mpi.nl/tla/elan)
 * [Praat](https://www.fon.hum.uva.nl/praat/)
 * [IPA (SIL) Keyboard](https://keyman.com/keyboards/sil_ipa)
+* [TypeDuck](https://www.typeduck.hk/)
+* [再會豆腐字](https://tauhu.tw/)
 
 ## Christianity
 
@@ -68,6 +70,10 @@ toc: true
 * [Bible Hub](https://biblehub.com/)
 * [YouVersion](https://www.bible.com/)
 * [Bible.is](https://live.bible.is/bible/EN1ESV/MAT/1)
+
+### Bible translation
+* [Translation Insights & Perspectives](https://tips.translation.bible/)
+* [Mark Ward](https://www.youtube.com/user/mlward038)
 
 ### General resources
 * [Got Questions](https://www.gotquestions.org/)
