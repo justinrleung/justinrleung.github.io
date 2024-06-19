@@ -9,4 +9,5 @@ venue: 'the Annual Conference of the Canadian Linguistics Association'
 venueabbr: 'CLA'
 host: 'Carleton University'
 location: 'Ottawa'
+abstracturl: 'https://cla-acl.ca/pdfs/resumes-2024-abstracts/Kiss-et-al.pdf'
 ---
