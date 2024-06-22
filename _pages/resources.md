@@ -14,6 +14,7 @@ toc: true
 * [Database of Cross-Linguistic Colexifications](https://clics.clld.org/)
 * [World Loanword Database](http://wold.clld.org)
 * [Pangloss Collection](https://pangloss.cnrs.fr/)
+* [Language Profiles Project](https://languageprofiles.ca/)
 * [Language Science Press](https://langsci-press.org/)
 * [English Wiktionary](https://en.wiktionary.org/)
 * [Webonary](https://www.webonary.org/)
@@ -55,12 +56,19 @@ toc: true
 * [Austronesian Comparative Dictionary](https://www.trussel2.com/ACD/)
 * [原住民族語言線上辭典](https://e-dictionary.ilrdf.org.tw/)
 
+### Signed languages
+* [SpreadTheSign](https://www.spreadthesign.com/)
+
 ### Tools
 * [ELAN](https://archive.mpi.nl/tla/elan)
 * [Praat](https://www.fon.hum.uva.nl/praat/)
 * [IPA (SIL) Keyboard](https://keyman.com/keyboards/sil_ipa)
 * [TypeDuck](https://www.typeduck.hk/)
 * [再會豆腐字](https://tauhu.tw/)
+
+### Textbooks
+* [Essentials of Linguistics](https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/)
+* [The Linguistic Analysis of Word and Sentence Structures](https://pressbooks.openedmb.ca/wordandsentencestructures/)
 
 ## Christianity
 
@@ -80,3 +88,4 @@ toc: true
 * [The Gospel Coalition (TGC)](https://www.thegospelcoalition.org/)
 * [Desiring God](https://www.desiringgod.org/)
 * [The LBCM Podcast](https://open.spotify.com/show/5r0AMyz2etkUHQ0GGtmQ7O)
+* [Into the Word with Paul Carter](https://intotheword.ca/)
