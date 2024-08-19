@@ -58,6 +58,7 @@ toc: true
 
 ### Signed languages
 * [SpreadTheSign](https://www.spreadthesign.com/)
+* [LSD Visual Sign Language Dictionary](https://www.sign-aip.net/sign-aip/en/home/index.php)
 
 ### Tools
 * [ELAN](https://archive.mpi.nl/tla/elan)
