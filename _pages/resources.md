@@ -64,6 +64,7 @@ toc: true
 * [Praat](https://www.fon.hum.uva.nl/praat/)
 * [IPA (SIL) Keyboard](https://keyman.com/keyboards/sil_ipa)
 * [TypeDuck](https://www.typeduck.hk/)
+* [Visual Fonts](https://visual-fonts.com/)
 * [再會豆腐字](https://tauhu.tw/)
 
 ### Textbooks
