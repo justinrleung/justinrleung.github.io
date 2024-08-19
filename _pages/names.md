@@ -10,7 +10,7 @@ My full name is Justin Richard Leung <span class="ipa-font">/ˈdʒʌs.tɪn ˈɹ�
 
 ## Chinese
 
-My Chinese name is 梁路明. My given name means "bright path" (道路光明), a reference to Proverbs 3:5–6 and Psalm 119:105.
+My Chinese name is 梁路明. My given name means "bright path" (道**路**光**明**), a reference to Proverbs 3:5–6 and Psalm 119:105.
 
 An array of pronunciations for your reference:
 
