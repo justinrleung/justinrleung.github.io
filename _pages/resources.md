@@ -32,6 +32,7 @@ toc: true
 * [Encyclopedia of Chinese Dialectology](http://www.fangyanxue.com/?id=dialect-dict)
 * [Words.hk](https://words.hk/)
 * [Taishanese Language Home](https://www.taishandict.com/)
+* [泛粵大典](https://www.jyutdict.org/)
 * [Directory of Cantonese linguists (compiled by Ka-Fai Yip)](https://kafai-yip.github.io/links/#cantonese-linguists)
 * [ChhoeTaigi](https://chhoe.taigi.info/)
 * [Language resources from the Taiwanese Ministry of Education](https://language.moe.gov.tw/)
@@ -80,10 +81,18 @@ toc: true
 * [Bible Hub](https://biblehub.com/)
 * [YouVersion](https://www.bible.com/)
 * [Bible.is](https://live.bible.is/bible/EN1ESV/MAT/1)
+* [Talking Bibles](https://www.talkingbibles.org/)
 
 ### Bible translation
 * [Translation Insights & Perspectives](https://tips.translation.bible/)
 * [Mark Ward](https://www.youtube.com/user/mlward038)
+
+### Musical worship
+* [CantonHymn](https://cantonhymn.net/)
+
+### Apologetics
+* [Apologetics Canada](https://apologeticscanada.com/)
+* [Stand to Reason](https://www.str.org/)
 
 ### General resources
 * [Got Questions](https://www.gotquestions.org/)
