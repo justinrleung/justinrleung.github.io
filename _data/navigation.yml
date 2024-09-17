@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Research"
+  - title: "Research 研究"
     url: /research/
     
-  - title: "Contribs"
+  - title: "Contribs 貢獻"
     url: /contribs/
     
-  - title: "CV"
+  - title: "CV 履歷"
     url: /cv/
 
-  - title: "Resources"
+  - title: "Resources 資源"
     url: /resources/
