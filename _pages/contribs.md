@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Contribs"
+title: "Contribs 學術貢獻"
 permalink: /contribs/
 author_profile: true
 ---
@@ -11,13 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-## Publications
+## Publications 學術著作
 
 {% for post in site.publications reversed %}
   {% include publication.html %}
 {% endfor %}
 
-## Presentations
+## Presentations 口頭報告
 
 {% for post in site.presentations reversed %}
   {% include presentation.html %}
