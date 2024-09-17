@@ -32,34 +32,34 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email 電郵" }}</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
       {% if author.researchgate %}
-        <li><a href="{{ author.researchgate }}"><i class="ai ai-researchgate ai-fw" aria-hidden="true"></i> ResearchGate</a></li>
+        <li><a href="{{ author.researchgate }}"><i class="ai ai-researchgate ai-fw" aria-hidden="true"></i> ResearchGate 研究之門</a></li>
       {% endif %}
       {% if author.academia %}
         <li><a href="{{ author.academia }}"><i class="ai ai-academia ai-fw" aria-hidden="true"></i> Academia.edu</a></li>
       {% endif %}
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="fab fa-fw fa-google"></i> Google Scholar</a></li>
+        <li><a href="{{ author.googlescholar }}"><i class="fab fa-fw fa-google"></i> Google Scholar 谷歌學術搜索</a></li>
       {% endif %}
       {% if author.wiktionary %}
-        <li><a href="https://en.wiktionary.org/wiki/User:{{ author.wiktionary }}"><i class="fas fa-fw fa-book" aria-hidden="true"></i> Wiktionary</a></li>
+        <li><a href="https://en.wiktionary.org/wiki/User:{{ author.wiktionary }}"><i class="fas fa-fw fa-book" aria-hidden="true"></i> Wiktionary 維基詞典</a></li>
       {% endif %}
       {% if author.wikipedia %}
-        <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia 維基百科</a></li>
       {% endif %}
       {% if author.linkedin %}
-        <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+        <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn 領英</a></li>
       {% endif %}
       {% if author.twitter %}
-        <li><a href="https://x.com/{{ author.twitter }}"><i class="fab fa-fw fa-x-twitter" aria-hidden="true"></i> X (Twitter)</a></li>
+        <li><a href="https://x.com/{{ author.twitter }}"><i class="fab fa-fw fa-x-twitter" aria-hidden="true"></i> X (Twitter 推特)</a></li>
       {% endif %}
       {% if author.facebook %}
-        <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+        <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook 面書</a></li>
       {% endif %}
       {% if author.google_plus %}
         <li><a href="https://plus.google.com/+{{ author.google_plus }}"><i class="fab fa-fw fa-google-plus" aria-hidden="true"></i> Google+</a></li>
