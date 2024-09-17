@@ -1,13 +1,13 @@
 ---
 permalink: /resources/
-title: "Resources"
+title: "Resources 資源"
 author_profile: true
 toc: true
 ---
 
-## Language and Linguistics
+## Language and Linguistics 語言、語言學
 
-### Languages of the world
+### Languages of the world 世界語言
 * [World Atlas of Language Structures (WALS)](https://wals.info/)
 * [Grambank](https://grambank.clld.org/)
 * [Ethnologue](http://www.ethnologue.com/)
@@ -19,12 +19,12 @@ toc: true
 * [English Wiktionary](https://en.wiktionary.org/)
 * [Webonary](https://www.webonary.org/)
 
-### Languages of Asia (multiple families)
+### Languages of Asia (multiple families) 亞洲語言（跨語系）
 * [Kaom.net](http://www.kaom.net/)
 * [SEAlang Projects](http://sealang.net/)
 * [Online Dictionaries and Full-text Search of Mongolian Languages and Written Manchu](http://hkuri.cneas.tohoku.ac.jp/)
 
-### Sinitic languages
+### Sinitic languages 漢語系
 * [Multi-function Chinese Character Database](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
 * [zi.tools](https://zi.tools/)
 * [Xiaoxuetang](https://xiaoxue.iis.sinica.edu.tw/)
@@ -42,26 +42,26 @@ toc: true
 * [Wugniu](https://www.wugniu.com/)
 * [A Dictionary of the Dungan Language](https://ivospira.bitbucket.io/dungan_dict/dungan_dict.html)
 
-### Tibeto-Burman languages
+### Tibeto-Burman languages 藏緬語系
 * [Tibetan Living Dictionary](https://mandala.library.virginia.edu/terms/tibetan)
 * [Tibetan-English Dictionary](https://dictionary.christian-steinert.de/)
 
-### Kra-Dai languages
+### Kra-Dai languages 壯侗語系
 * [thai-language.com Dictionary](http://www.thai-language.com/dict/)
 
-### Austroasiatic languages
+### Austroasiatic languages 南亞語系
 * [chunom.org](https://chunom.org/)
 * [Từ điển Hán Nôm](https://hvdic.thivien.net/)
 
-### Austronesian languages
+### Austronesian languages 南島語系
 * [Austronesian Comparative Dictionary](https://www.trussel2.com/ACD/)
 * [原住民族語言線上辭典](https://e-dictionary.ilrdf.org.tw/)
 
-### Signed languages
+### Signed languages 手語
 * [SpreadTheSign](https://www.spreadthesign.com/)
 * [LSD Visual Sign Language Dictionary](https://www.sign-aip.net/sign-aip/en/home/index.php)
 
-### Tools
+### Tools 工具
 * [ELAN](https://archive.mpi.nl/tla/elan)
 * [Praat](https://www.fon.hum.uva.nl/praat/)
 * [IPA (SIL) Keyboard](https://keyman.com/keyboards/sil_ipa)
@@ -69,13 +69,13 @@ toc: true
 * [Visual Fonts](https://visual-fonts.com/)
 * [再會豆腐字](https://tauhu.tw/)
 
-### Textbooks
+### Textbooks 教科書
 * [Essentials of Linguistics](https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/)
 * [The Linguistic Analysis of Word and Sentence Structures](https://pressbooks.openedmb.ca/wordandsentencestructures/)
 
-## Christianity
+## Christianity 基督教
 
-### Bibles
+### Bibles 聖經
 * [Faith Hope Love](https://bible.fhl.net/)
   * [珍本聖經數位典藏查詢系統](https://bible.fhl.net/ob/)
 * [Bible Hub](https://biblehub.com/)
@@ -83,18 +83,18 @@ toc: true
 * [Bible.is](https://live.bible.is/bible/EN1ESV/MAT/1)
 * [Talking Bibles](https://www.talkingbibles.org/)
 
-### Bible translation
+### Bible translation 聖經翻譯
 * [Translation Insights & Perspectives](https://tips.translation.bible/)
 * [Mark Ward](https://www.youtube.com/user/mlward038)
 
-### Musical worship
+### Musical worship 音樂敬拜
 * [CantonHymn](https://cantonhymn.net/)
 
-### Apologetics
+### Apologetics 護教
 * [Apologetics Canada](https://apologeticscanada.com/)
 * [Stand to Reason](https://www.str.org/)
 
-### General resources
+### General resources 概括性資源
 * [Got Questions](https://www.gotquestions.org/)
 * [The Gospel Coalition (TGC)](https://www.thegospelcoalition.org/)
 * [Desiring God](https://www.desiringgod.org/)
