@@ -24,7 +24,7 @@ toc: true
 * [SEAlang Projects](http://sealang.net/)
 * [Online Dictionaries and Full-text Search of Mongolian Languages and Written Manchu](http://hkuri.cneas.tohoku.ac.jp/)
 
-### Sinitic languages 漢語系
+### Sinitic languages 漢語族
 * [Multi-function Chinese Character Database](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
 * [zi.tools](https://zi.tools/)
 * [Xiaoxuetang](https://xiaoxue.iis.sinica.edu.tw/)
