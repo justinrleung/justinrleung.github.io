@@ -9,18 +9,19 @@ toc: true
 
 ### Languages of the world 世界語言
 * [World Atlas of Language Structures 世界語言結構地圖 (WALS)](https://wals.info/)
-* [Grambank](https://grambank.clld.org/)
+* [Grambank 世界語法庫](https://grambank.clld.org/)
+* [Lexibank 世界詞彙庫](https://lexibank.clld.org/)
 * [Ethnologue 民族語](http://www.ethnologue.com/)
-* [Database of Cross-Linguistic Colexifications](https://clics.clld.org/)
-* [World Loanword Database](http://wold.clld.org)
-* [Pangloss Collection](https://pangloss.cnrs.fr/)
-* [Language Profiles Project](https://languageprofiles.ca/)
-* [Language Science Press](https://langsci-press.org/)
+* [Database of Cross-Linguistic Colexifications 跨語共詞化資料庫 (CLICS³)](https://clics.clld.org/)
+* [World Loanword Database 世界借詞資料庫](http://wold.clld.org)
+* [Pangloss Collection 泛語語料庫](https://pangloss.cnrs.fr/)
+* [Language Profiles Project 語言檔案計畫](https://languageprofiles.ca/)
+* [Language Science Press 語言科學出版社](https://langsci-press.org/)
 * [English Wiktionary 英語維基詞典](https://en.wiktionary.org/)
 * [Webonary](https://www.webonary.org/)
 
 ### Languages of Asia (multiple families) 亞洲語言（跨語系）
-* [Kaom.net](http://www.kaom.net/)
+* [Archaic Sound Micro Mirror 古音小鏡](http://www.kaom.net/)
 * [SEAlang Projects](http://sealang.net/)
 * [Online Dictionaries and Full-text Search of Mongolian Languages and Written Manchu](http://hkuri.cneas.tohoku.ac.jp/)
 
