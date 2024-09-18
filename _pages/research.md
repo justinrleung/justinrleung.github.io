@@ -16,10 +16,10 @@ author_profile: true
 
 ## Other projects 其他研究項目
 
-* The form and meaning of questions 問題句嘅形式及語義 (with Angelika Kiss and Roger Lo 羅郁翔)
+* The form and meaning of questions 問題句嘅形式及語義 ([Angelika Kiss](https://www.angelikakiss.com/), [Roger Lo 羅郁翔](https://blogs.ubc.ca/rogeryhlo/))
 * [Digitization and processing of the Kienning (Northern Min) Bible 閩北建寧土白聖經嘅數碼化及資訊處理](https://github.com/justinrleung/kienning-bible)
 
 ## Past projects 過去嘅研究項目
 
-* Verb particles in the history of French 法語歷史裏嘅動詞助詞 (with Michelle Troberg)
+* Verb particles in the history of French 法語歷史中嘅動詞助詞 ([Michelle Troberg](https://sites.utm.utoronto.ca/troberg/))
 * Adjective ordering in Lingala 林加拉語形容詞語序
