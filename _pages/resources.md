@@ -68,7 +68,7 @@ toc: true
 * [Praat](https://www.fon.hum.uva.nl/praat/)
 * [IPA (SIL) Keyboard 國際音標輸入法](https://keyman.com/keyboards/sil_ipa)
 * [TypeDuck 打得粵拼輸入法](https://www.typeduck.hk/)
-* [Visual Fonts](https://visual-fonts.com/)
+* [Visual Fonts 是像字體](https://visual-fonts.com/)
 * [再會豆腐字](https://tauhu.tw/)
 
 ### Textbooks 教科書
