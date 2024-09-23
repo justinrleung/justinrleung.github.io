@@ -91,7 +91,10 @@ toc: true
 * [Mark Ward 馬克·沃德](https://www.youtube.com/user/mlward038)
 
 ### Musical worship 音樂敬拜
+* [Sovereign Grace Music 主權恩典音樂](https://sovereigngracemusic.com/)
+* [CityAlight](https://cityalight.com/)
 * [CantonHymn 恢復粵語詩歌敬拜文化運動](https://cantonhymn.net/)
+* [Lamb Music 小羊詩歌](https://w247.net/)
 
 ### Apologetics 護教
 * [Apologetics Canada 加拿大護教事工](https://apologeticscanada.com/)
