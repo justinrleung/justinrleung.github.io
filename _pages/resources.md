@@ -22,8 +22,8 @@ toc: true
 
 ### Languages of Asia (multiple families) 亞洲語言（跨語系）
 * [Archaic Sound Micro Mirror 古音小鏡](http://www.kaom.net/)
-* [SEAlang Projects](http://sealang.net/)
-* [Online Dictionaries and Full-text Search of Mongolian Languages and Written Manchu](http://hkuri.cneas.tohoku.ac.jp/)
+* [SEAlang Projects 東南亞語言項目](http://sealang.net/)
+* [Online Dictionaries and Full-text Search of Mongolian Languages and Written Manchu 蒙古諸語及滿語資料檢索系統](http://hkuri.cneas.tohoku.ac.jp/)
 
 ### Sinitic languages 漢語族
 * [Multi-function Chinese Character Database 漢語多功能字庫](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
@@ -52,15 +52,15 @@ toc: true
 * [thai-language.com Dictionary 泰英詞典](http://www.thai-language.com/dict/)
 
 ### Austroasiatic languages 南亞語系
-* [chunom.org](https://chunom.org/)
-* [Từ điển Hán Nôm](https://hvdic.thivien.net/)
+* [chunom.org 喃字網](https://chunom.org/)
+* [Từ điển Hán Nôm 漢喃字典](https://hvdic.thivien.net/)
 
 ### Austronesian languages 南島語系
-* [Austronesian Comparative Dictionary](https://www.trussel2.com/ACD/)
+* [Austronesian Comparative Dictionary 南島語比較辭典](https://www.trussel2.com/ACD/)
 * [原住民族語言線上辭典](https://e-dictionary.ilrdf.org.tw/)
 
 ### Signed languages 手語
-* [SpreadTheSign](https://www.spreadthesign.com/)
+* [SpreadTheSign](https://spreadthesign.com/en.us/) [多國手語通](https://spreadthesign.com/zh.hans.cn/)
 * [LSD Visual Sign Language Dictionary](https://www.sign-aip.net/sign-aip/en/home/index.php) [啟聾手語視像字典](https://www.sign-aip.net/sign-aip/tc/home/index.php)
 
 ### Tools 工具
@@ -80,25 +80,26 @@ toc: true
 ### Bibles 聖經
 * [Faith Hope Love 信望愛](https://bible.fhl.net/)
   * [珍本聖經數位典藏查詢系統](https://bible.fhl.net/ob/)
-* [Bible Hub](https://biblehub.com/)
+* [Bible Hub 聖經 Hub](https://biblehub.com/)
 * [YouVersion](https://www.bible.com/)
+* [Bible Gateway](https://www.biblegateway.com/)
 * [Bible.is](https://live.bible.is/bible/EN1ESV/MAT/1)
-* [Talking Bibles](https://www.talkingbibles.org/)
+* [Talking Bibles 會說話的聖經](https://www.talkingbibles.org/)
 
 ### Bible translation 聖經翻譯
-* [Translation Insights & Perspectives](https://tips.translation.bible/)
-* [Mark Ward](https://www.youtube.com/user/mlward038)
+* [Translation Insights & Perspectives 翻譯見地與觀點 (TIPs)](https://tips.translation.bible/)
+* [Mark Ward 馬克·沃德](https://www.youtube.com/user/mlward038)
 
 ### Musical worship 音樂敬拜
-* [CantonHymn](https://cantonhymn.net/)
+* [CantonHymn 恢復粵語詩歌敬拜文化運動](https://cantonhymn.net/)
 
 ### Apologetics 護教
-* [Apologetics Canada](https://apologeticscanada.com/)
-* [Stand to Reason](https://www.str.org/)
+* [Apologetics Canada 加拿大護教事工](https://apologeticscanada.com/)
+* [Stand to Reason 堅守理性事工](https://www.str.org/)
 
 ### General resources 概括性資源
-* [Got Questions](https://www.gotquestions.org/)
+* [Got Questions 神問答](https://www.gotquestions.org/)
 * [The Gospel Coalition (TGC)](https://www.thegospelcoalition.org/) [福音聯盟](https://tc.tgcchinese.org/)
 * [Desiring God 渴慕神](https://www.desiringgod.org/)
 * [The LBCM Podcast 證道播客](https://open.spotify.com/show/5r0AMyz2etkUHQ0GGtmQ7O)
-* [Into the Word with Paul Carter](https://intotheword.ca/)
+* [Into the Word with Paul Carter 保羅·卡特深入聖言播客](https://intotheword.ca/)
