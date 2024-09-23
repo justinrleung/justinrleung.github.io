@@ -11,13 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-## Publications 學術著作
+## Publications 著作
 
 {% for post in site.publications reversed %}
   {% include publication.html %}
 {% endfor %}
 
-## Presentations 口頭報告
+## Presentations 報告
 
 {% for post in site.presentations reversed %}
   {% include presentation.html %}
