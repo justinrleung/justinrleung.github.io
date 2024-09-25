@@ -52,6 +52,7 @@ toc: true
 * [thai-language.com Dictionary 泰英詞典](http://www.thai-language.com/dict/)
 
 ### Austroasiatic languages 南亞語系
+* [Vietnamese Nôm Preservation Foundation 喃字遺產保護會](https://www.nomfoundation.org/)
 * [chunom.org 喃字網](https://chunom.org/)
 * [Từ điển Hán Nôm 漢喃字典](https://hvdic.thivien.net/)
 
