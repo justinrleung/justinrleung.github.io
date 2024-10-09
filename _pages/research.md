@@ -8,7 +8,7 @@ author_profile: true
 ## Main research interests 主要研究興趣
 
 * Argument/event structure in Cantonese 粵語論元、事件結構
-  * Directional roots and their associated arguments 趨向詞根及相關論元
+  * Directed motion constructions 趨向位移結構
   * Double object constructions 雙賓結構
 * Variation and change in heritage Cantonese 粵語繼承語中嘅變異
   * Motion event expression 移位事件表達方式
