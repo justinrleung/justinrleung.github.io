@@ -11,7 +11,7 @@ author_profile: true
   * Directed motion constructions 趨向位移結構
   * Double object constructions 雙賓結構
 * Variation and change in heritage Cantonese 粵語繼承語中嘅變異
-  * Motion event expression 移位事件表達方式
+  * Motion event expression 位移事件表達方式
   * Word order in resultatives 結果結構語序
 
 ## Other projects 其他研究項目
