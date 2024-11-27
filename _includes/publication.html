@@ -8,7 +8,7 @@
       In {{ post.editor }} (ed.), <i>{{ post.booktitle }}</i>, {{ post.pages }}.
       {% endif %}
       {% if post.venue %}
-      <i>{{ post.venue }}</i> {{ post.volume }}({{ post.issue }}): {{ post.pages }}.
+      <i>{{ post.venue }}</i> {{ post.volume }}{% if post.issue %}({{ post.issue }}){% endif %}: {{ post.pages }}.
       {% endif %}
       {% if post.paperurl %}
       [<a href=" {{ post.paperurl }} ">download</a>]
