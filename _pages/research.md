@@ -7,12 +7,13 @@ author_profile: true
 
 ## Main research interests 主要研究興趣
 
+* Variation and change in heritage Cantonese 祖裔粵語中嘅變異同變化
+  * Motion event expression 位移事件表達方式
+  * Word order in resultatives 結果結構語序
+  * Classifier constructions 量詞結構
 * Argument/event structure in Cantonese 粵語論元、事件結構
   * Directed motion constructions 趨向位移結構
   * Double object constructions 雙賓結構
-* Variation and change in heritage Cantonese 粵語繼承語中嘅變異
-  * Motion event expression 位移事件表達方式
-  * Word order in resultatives 結果結構語序
 
 ## Other projects 其他研究項目
 
