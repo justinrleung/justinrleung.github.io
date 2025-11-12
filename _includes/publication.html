@@ -5,7 +5,10 @@
     
     <p>{{ post.authors }}. {{ post.date | default: "1900-01-01" | date: "%Y" }}. {{ post.title }}.
       {% if post.editor %}
-      In {{ post.editor }} (ed.), <i>{{ post.booktitle }}</i>, {{ post.pages }}.
+      In {{ post.editor }} (ed.), <i>{{ post.booktitle }}</i>, {{ post.pages }}. {{ post.location }}: {{ post.publisher }}.
+      {% endif %}
+      {% if post.editors %}
+      In {{ post.editors }} (eds.), <i>{{ post.booktitle }}</i>, {{ post.pages }}. {{ post.location }}: {{ post.publisher }}.
       {% endif %}
       {% if post.venue %}
       <i>{{ post.venue }}</i> {{ post.volume }}{% if post.issue %}({{ post.issue }}){% endif %}: {{ post.pages }}.
