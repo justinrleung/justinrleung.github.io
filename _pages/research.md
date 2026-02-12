@@ -18,6 +18,7 @@ author_profile: true
 ## Other projects 其他研究項目
 
 * The form and meaning of questions 問題句嘅形式及語義 ([Angelika Kiss](https://www.angelikakiss.com/), [Roger Lo 羅郁翔](https://blogs.ubc.ca/rogeryhlo/))
+* Generative AI and sociolinguistic variation 生成式人工智能與社會語言變異 (Paul Ueda 上田博恩, Marjorie K. M. Chan 陳潔雯, Ka Fai Law 羅嘉煇)
 * [Digitization and processing of the Kienning (Northern Min) Bible 閩北建寧土白聖經嘅數碼化及資訊處理](https://github.com/justinrleung/kienning-bible)
 
 ## Past projects 過去嘅研究項目
