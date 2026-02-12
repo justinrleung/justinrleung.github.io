@@ -5,6 +5,9 @@ main:
     
   - title: "Contribs 貢獻"
     url: /contribs/
+
+  - title: "Teaching 教學"
+    url: /teaching/
     
   - title: "CV 履歷"
     url: /cv/
