@@ -32,14 +32,19 @@ toc: true
 * [YonhTenxMyangx 韻典網](https://ytenx.org/)
 * [Encyclopedia of Chinese Dialectology 漢語方言學大詞典](http://www.fangyanxue.com/?id=dialect-dict)
 * [Words.hk 粵典](https://words.hk/)
+* [Jyutjyu 粵語辭叢](https://www.jyutjyu.com/)
 * [Taishanese Language Home 台山話資源網](https://www.taishandict.com/)
 * [泛粵大典](https://www.jyutdict.org/)
 * [Directory of Cantonese linguists 粵語語言學家列表 (compiled by Ka-Fai Yip 葉家煇編)](https://kafai-yip.github.io/links/#cantonese-linguists)
 * [ChhoeTaigi 揣台語](https://chhoe.taigi.info/)
 * [Language resources from the Taiwanese Ministry of Education 台灣教育部語文成果網](https://language.moe.gov.tw/)
+* [Ūn-luī 韻彙](https://unlui.enatsu.top/)
 * [Penang Hokkien Dictionary 檳城福建話詞典](https://www.penang-traveltips.com/dictionary/)
 * [潮州音字典](http://www.czyzd.com/)
+* [WhatTCSay](https://whattcsay.com)
+* [SeeDict 米時典](https://seedict.com/)
 * [Hakka e-Learning Center 哈客網路學院](https://elearning.hakka.gov.tw/)
+* [Thienkong Hakka Dictionary 天光客語辭典](https://thienkong-dict.vercel.app/)
 * [Wugniu 吳語學堂](https://www.wugniu.com/)
 * [A Dictionary of the Dungan Language 東干語詞典](https://ivospira.bitbucket.io/dungan_dict/dungan_dict.html)
 
@@ -89,7 +94,7 @@ toc: true
 
 ### Bible translation 聖經翻譯
 * [Translation Insights & Perspectives 翻譯見地與觀點 (TIPs)](https://tips.translation.bible/)
-* [Mark Ward 馬克·沃德](https://www.youtube.com/user/mlward038)
+* [Ward on Words](https://www.youtube.com/user/mlward038)
 
 ### Musical worship 音樂敬拜
 * [Sovereign Grace Music 主權恩典音樂](https://sovereigngracemusic.com/)
