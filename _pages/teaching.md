@@ -9,6 +9,7 @@ author_profile: true
 
 ### Course instructor 講師
 * [LIN200 Introduction to Language](https://artsci.calendar.utoronto.ca/course/lin200h1) – Summer 2025
+* [JAL328 Writing Systems](https://artsci.calendar.utoronto.ca/course/jal328h1) – Fall 2026
 
 ### Teaching assistant 助教
 * [LIN101 Introduction to Linguistics: Sound Structure](https://artsci.calendar.utoronto.ca/course/lin101h1) – Fall 2021
