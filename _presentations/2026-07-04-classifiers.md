@@ -2,7 +2,7 @@
 title: "The role of grammatical function (and information structure) on classifier choice in Cantonese"
 collection: presentations
 type: "Paper"
-authors: <strong>Justin R. Leung</strong>
+authors: <strong>Leung, Justin R</strong>
 date: 2026-07-04
 enddate: 2026-07-04
 venue: 'the 1st Cantonese Applied Linguistics Conference × 9th Forum on Cantonese Linguistics'
